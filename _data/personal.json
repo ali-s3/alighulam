@@ -1,11 +1,12 @@
 [
     {
         "name": "Ali Ghulam",
-        "website": "https://alighulam.vercel.app",
+        "website": "https://ali-s3.github.io/alighulam/",
         "email": "alighulam@zohomail.com",
         "email2": "",
         "phone": "+92-3240437769",
         "linkedin":"https://www.linkedin.com/in/ali-ghulam-595770271/",
+        "github": "https://github.com/ali-s3",
         "languages": [
             {
                 "language": "JavaScript"
