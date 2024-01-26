@@ -1,0 +1,15 @@
+[
+    {
+        "tools": [
+            {
+                "tool": "Git"
+            },
+            {
+                "tool": "Docker"
+            },
+            {
+                "tool": "AWS"
+            }
+        ]
+    }
+]

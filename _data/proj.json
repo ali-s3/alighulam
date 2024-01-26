@@ -1,0 +1,10 @@
+[
+    {
+        "title": "IntoVacations.com - Travel Platform",
+        "description": "Led full-stack development for Into Vacations, building a dynamic travel platform with seamless and personalized booking experiences. Developed and deployed complete Android and iOS apps, ensuring thorough testing before launching on Play Store and App Store. Utilized React.js, jQuery, Laravel, and MySql for web and mobile development."
+    },           
+    {
+        "title": "PhantomTranzit.com",
+        "description": "Developed PhantomTranzit, a revolutionary transportation platform using PHP Laravel, jQuery, and MySQL. This comprehensive system facilitates seamless bus booking and fleet management, featuring a user-friendly reservation system, efficient fleet management tools, and customizable options. Integrated secure payment solutions for convenient transactions. Leveraged third-party APIs and plugins to enhance functionality."
+    }
+]

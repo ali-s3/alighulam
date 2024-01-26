@@ -1,0 +1,48 @@
+[
+    {
+        "company": "Gibson Brands, Inc.",
+        "company_location": "Remote",
+        "role": "Junior Software Developer",
+        "team": "Full Stack Development",
+        "time_duration": "Jul 2023 - Present",
+        "details": [
+            {
+            "title": "Gibson.app - Full Stack Development",
+            "description": "As a Junior Software Developer at Gibson Brands, I play a pivotal role in the comprehensive development of Gibson.app. My responsibilities span both frontend and backend, contributing to the creation of a seamless user experience."
+            },
+            {
+            "title": "Frontend Technologies",
+            "description": "Utilizing cutting-edge technologies, my toolkit includes Next.js for building robust frontend interfaces, Tailwind CSS for efficient styling, and Firebase to handle frontend-backend interactions."
+            },
+            {
+            "title": "Backend Development with Laravel",
+            "description": "In parallel, I served as a Laravel Developer, crafting REST APIs that seamlessly integrate with the Next.js app. Notable achievements include implementing features like Stripe promo code integration and validation, providing users with custom checkout experiences using the React.js Stripe package."
+            },
+            {
+            "title": "Key Achievements",
+            "description": "Over the past 7 months, I've been instrumental in evolving Gibson.app. My role involves continuous collaboration with cross-functional teams to implement new features, resolve bugs, and enhance the overall performance of the website."
+            }
+        ]
+    },
+    {
+        "company": "VionTech",
+        "company_location": "Lahore, Punjab, Pakistan",
+        "role": "Full-stack Developer",
+        "team": "Web and Mobile App Development",
+        "time_duration": "Mar 2021 - Apr 2023",
+        "details": [
+            {
+                "title": "Web and Mobile App Development",
+                "description": "Led full-stack development initiatives for diverse projects, including portfolio websites, travel accommodation apps, e-commerce applications, and streamlined booking websites."
+            },
+            {
+                "title": "Technological Expertise",
+                "description": "Proficient in utilizing React.js, React Native, Next.js, and Laravel to build robust REST APIs, manage databases, and integrate third-party APIs. Skilled in crafting visually stunning UI using Bootstrap and implementing dynamic front-end interactions with jQuery."
+            },
+            {
+                "title": "Testing and Deployment",
+                "description": "Ensured code reliability and efficiency through rigorous testing methodologies. Implemented seamless deployment practices for efficient project delivery."
+            }
+        ]
+    }
+]
