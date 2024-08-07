@@ -1,0 +1,48 @@
+[
+    {
+        "company": "Gibson Brands, Inc.",
+        "company_location": "Remote",
+        "role": "Junior Software Developer",
+        "team": "Full Stack Development",
+        "time_duration": "Jul 2023 - Present",
+        "details": [
+            {
+            "title": "Gibson.app - Full Stack Development",
+            "description": "Pivotal role in comprehensive development, contributing to both frontend and backend for a seamless user experience."
+            },
+            {
+            "title": "Frontend Technologies",
+            "description": "Utilized cutting-edge technologies, including Next.js for robust frontend interfaces, Tailwind CSS for styling, and Firebase for frontend-backend interactions."
+            },
+            {
+            "title": "Backend Development with Laravel",
+            "description": "Served as a Laravel Developer, crafting REST APIs seamlessly integrated with the Next.js app. Achievements include implementing Stripe promo code integration, validation, and providing custom checkout experiences using the React.js Stripe package."
+            },
+            {
+            "title": "Key Achievements",
+            "description": "Instrumental in evolving Gibson.app, collaborating with cross-functional teams to implement new features, resolve bugs, and enhance overall performance over the past 7 months."
+            }
+        ]
+    },
+    {
+        "company": "VionTech",
+        "company_location": "Lahore, Punjab, Pakistan",
+        "role": "Full-stack Developer",
+        "team": "Web and Mobile App Development",
+        "time_duration": "Mar 2021 - Apr 2023",
+        "details": [
+            {
+                "title": "Web and Mobile App Development",
+                "description": "Led full-stack development for diverse projects, including portfolio websites, travel accommodation apps, e-commerce applications, and streamlined booking websites."
+            },
+            {
+                "title": "Technological Expertise",
+                "description": "Proficient in React.js, React Native, Next.js, and Laravel for building robust REST APIs, managing databases, and integrating third-party APIs. Crafted visually stunning UI using Bootstrap and implemented dynamic front-end interactions with jQuery."
+            },
+            {
+                "title": "Testing and Deployment",
+                "description": "Ensured code reliability and efficiency through rigorous testing methodologies, implementing seamless deployment practices for efficient project delivery."
+            }
+        ]
+    }
+]

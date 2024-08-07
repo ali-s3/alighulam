@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Ali Malik",
+        "website": "https://ali-s3.github.io/alighulam/",
+        "email": "kashiknight99@gmail.com",
+        "email2": "",
+        "phone": "+92-3240437769",
+        "linkedin":"https://www.linkedin.com/in/ali-malik-768843121",
+        "github": "https://github.com/aliabbasmalik8",
+        "languages": [
+            {
+                "language": "JavaScript"
+            },
+            {
+                "language": "Java"
+            },
+            {
+                "language": "C#"
+            },
+            {
+                "language": "Python"
+            },
+            {
+                "language": "PHP"
+            }
+        ],
+        "technologies": [
+            {
+                "technology": "ReactJs"
+            },
+            {
+                "technology": "NextJs"
+            },
+            {
+                "technology": "ExpressJs"
+            },
+            {
+                "technology": ".Net"
+            },
+            {
+                "technology": "Laravel"
+            },
+            {
+                "technology": "HTML"
+            },
+            {
+                "technology": "CSS"
+            }
+        ]
+    }
+]
